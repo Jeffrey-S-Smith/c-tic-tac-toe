@@ -12,4 +12,4 @@ In some cases, when none of the players succeeds in filling the boxes horizontal
 
 Tic Tac Toe is an integral part of our childhood memories. It is a fun game consisting of two players who battle each other using Xs and Os. If you program it correctly, you can have fun playing it on your PC with your friends again.
 
-This tutorial explains how to create a simple game of tic tac toe using C++ programming language. This article contains a simple source code of the Tic Tac Toe game for two players with proper documentation.
+
